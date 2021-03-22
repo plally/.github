@@ -1,0 +1,7 @@
+{
+    "name": "Go binary builder",
+    "description": "build go binaries on release",
+    "categories": [
+        "Go"
+    ]
+}
